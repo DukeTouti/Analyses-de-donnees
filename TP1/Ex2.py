@@ -4,7 +4,6 @@
  *	Étudiants:
  *	    - HABBAZ Kamal <kamal.habbaz@uir.ac.ma>
  *	    - HATHOUTI Mohammed Taha <mohammed-taha.hathouti@uir.ac.ma>
- *	    - [Ajoutez d'autres membres si nécessaire]
 
  *	Groupes:
  *	    - Groupe TD: TDB
