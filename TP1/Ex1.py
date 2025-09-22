@@ -1,3 +1,18 @@
+"""
+ *	Exercice 1: Sleep tracker analysis
+
+ *	Étudiants:
+ *	    - HABBAZ Kamal <kamal.habbaz@uir.ac.ma>
+ *	    - HATHOUTI Mohammed Taha <mohammed-taha.hathouti@uir.ac.ma>
+ *	    - [Ajoutez d'autres membres si nécessaire]
+
+ *	Groupes:
+ *	    - Groupe TD: TDB
+ *	    - Groupe TP: TPC
+
+ *	Date: lundi 22 septembre 2025
+"""
+
 import numpy as np
 
 "Q1"
